@@ -1,0 +1,80 @@
+Плагины:
+
+
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+Babel JavaScript
+Backticks
+Bracket Pair Colorization Toggler
+Code Spell Checker
+eCSStractor for VSCode
+ES7+ React/Redux/React-Native snippets
+HTML CSS Support
+HTML to CSS autocompletion
+Import Cost
+IntelliCode
+IntelliCode API Usage Examples
+IntelliSense for CSS class names in HTML
+JavaScript (ES6) code snippets
+JS JSX Snippets
+Live Server
+Material Icon Theme
+Path Autocomplete
+Path Intellisense
+Prettier - Code formatter
+React Style Helper
+Russian - Code Spell Checker
+Russian Language Pack for Visual Studio Code
+Sass (.sass only)
+SCSS IntelliSense
+Winter is Coming Theme
+
+
+Настройки:
+
+{
+	"workbench.startupEditor": "none",
+	"files.autoSave": "onFocusChange",
+	"editor.fontSize": 18,
+	"editor.smoothScrolling": true,
+	"breadcrumbs.enabled": false,
+	"editor.tabSize": 2,
+	"files.defaultLanguage": "html",
+	"editor.detectIndentation": false,
+	"editor.glyphMargin": false,
+	"terminal.integrated.fontSize": 18,
+	"editor.cursorSurroundingLines": 23,
+	"explorer.confirmDelete": false,
+	"security.workspace.trust.enabled": false,
+	"editor.insertSpaces": false,
+	"editor.linkedEditing": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"emmet.extensionsPath": ["~/AppData/Roaming/Code/User/emmet"],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"typescript": "typescriptreact"
+	},
+	"cSpell.language": "en,ru",
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+	"http.proxySupport": "fallback",
+	"workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+	"workbench.iconTheme": "material-icon-theme",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.persistentSessionReviveProcess": "never",
+	"terminal.integrated.enablePersistentSessions": false,
+	"ecsstractor_port.comment_style": "css",
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+	"path-autocomplete.pathMappings": {
+		"@img": "${folder}/src/img",
+		"@scss": "${folder}/src/scss",
+		"@js": "${folder}/src/js"
+	}
+}
