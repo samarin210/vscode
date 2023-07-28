@@ -1,6 +1,4 @@
 Плагины:
-
-
 Auto Close Tag
 Auto Complete Tag
 Auto Rename Tag
@@ -29,7 +27,6 @@ Russian Language Pack for Visual Studio Code
 Sass (.sass only)
 SCSS IntelliSense
 Winter is Coming Theme
-
 
 Настройки:
 
